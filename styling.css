@@ -188,11 +188,3 @@ h3 {
 p {
     color: #8f8f8f;
 }
-
-@media (max-width: 1028px) {
-    .btn {
-        margin-left: 135px;
-    }
-
-}
-}
